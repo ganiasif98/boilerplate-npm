@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Asif Gani",
 	"description": "a project that does something awsome",
+	"keywords": [
+		"freecodecamp",
+		"test",
+		"description"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
